@@ -1,8 +1,8 @@
 Hi 👋 My name is Serhii Tkachenko
 =================================
 
-QA Test Engineer
-----------------
+I'm QA Test Engineer
+--------------------
 
 I have been involved in software testing since 2015. I am also interested in software development.
 
