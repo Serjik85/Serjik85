@@ -2,6 +2,7 @@
 
 Hi 👋 My name is Serhii Tkachenko
 =================================
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C4FF&size=25&center=true&vCenter=true&width=600&lines=QA+Engineer;Automation+Tester;Chrome+Extension+Developer;Building+testing+tools)
 
 I'm QA Test Engineer
 --------------------
