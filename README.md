@@ -6,9 +6,11 @@ Hi 👋 My name is Serhii Tkachenko
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Serjik85&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Serjik85&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjik85&layout=compact&theme=tokyonight"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serjik85&layout=compact&theme=tokyonight)
 
 I'm QA Test Engineer
 --------------------
