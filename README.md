@@ -13,14 +13,11 @@ Hi 👋 My name is Serhii Tkachenko
 
 ## 🚀 Projects
 
-### QA Test Case Helper
-Chrome extension that helps QA engineers automatically generate test cases.
-
 ### DiaHub
 Hardware project displaying real-time glucose data.
 
-### OpenClaw automation tools
-Agents and automation tools for Raspberry Pi.
+### QA Test Case Helper
+Chrome extension that helps QA engineers automatically generate test cases.
 
 ## 📊 GitHub Stats
 
