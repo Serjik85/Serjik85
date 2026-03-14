@@ -18,6 +18,16 @@ Hi 👋 My name is Serhii Tkachenko
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjik85&layout=compact&theme=tokyonight"/>
 </p>
 
+## 🚀 Projects
+
+### QA Test Case Helper
+Chrome extension that helps QA engineers automatically generate test cases.
+
+### DiaHub
+Hardware project displaying real-time glucose data.
+
+### OpenClaw automation tools
+Agents and automation tools for Raspberry Pi.
 
 
 I'm QA Test Engineer
