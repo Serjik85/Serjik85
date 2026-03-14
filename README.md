@@ -38,4 +38,3 @@ I have been involved in software testing since 2015. I am also interested in sof
 *   🌍  I'm based in Aarhus, Denmark
 *   ✉️  You can contact me at [serhii@tkachenko.guru](mailto:serhii@tkachenko.guru)
 *   🧠  I'm learning JS, Java, Selenium Webdriver
-![Profile views](https://komarev.com/ghpvc/?username=Serjik85&color=blue)
