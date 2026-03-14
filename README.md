@@ -4,6 +4,12 @@ Hi 👋 My name is Serhii Tkachenko
 =================================
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C4FF&size=25&center=true&vCenter=true&width=600&lines=QA+Engineer;Automation+Tester;Chrome+Extension+Developer;Building+testing+tools)
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Serjik85&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serjik85&layout=compact&theme=tokyonight)
+
 I'm QA Test Engineer
 --------------------
 
