@@ -11,13 +11,6 @@ Hi 👋 My name is Serhii Tkachenko
 ![Chrome Extensions](https://img.shields.io/badge/Chrome-Extensions-orange)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C4FF&size=25&center=true&vCenter=true&width=600&lines=QA+Engineer;Automation+Tester;Chrome+Extension+Developer;Building+testing+tools)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Serjik85&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjik85&layout=compact&theme=tokyonight"/>
-</p>
-
 ## 🚀 Projects
 
 ### QA Test Case Helper
@@ -28,6 +21,13 @@ Hardware project displaying real-time glucose data.
 
 ### OpenClaw automation tools
 Agents and automation tools for Raspberry Pi.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Serjik85&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serjik85&layout=compact&theme=tokyonight"/>
+</p>
 
 
 I'm QA Test Engineer
